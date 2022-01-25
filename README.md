@@ -5,3 +5,5 @@ YOLO model podesen na osnovu - https://medium.com/analytics-vidhya/train-a-custo
 Dataset - https://public.roboflow.com/object-detection/chess-full/24
 
 Link ka drive folderu sa yolo modelom - https://drive.google.com/drive/folders/1XAzEJBy6cEgRY6__L3553Yjz5bTummWO?usp=sharing
+
+Hough funk - https://towardsdatascience.com/board-game-image-recognition-using-neural-networks-116fc876dafa
